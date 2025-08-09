@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year ECE . student at University working in , advised by  I completed my undergrad in EE from  and am honored to be recognized as an honorary member of , 
+I am a first-year ECE . student at University working in , advised by  I completed my undergrad in EE from  and am honored to be recognized as an honorary member of
