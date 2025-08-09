@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Li-Chen Yu | Academic Profile"
+title: "Li-Chen Yu"
 author_profile: true
 redirect_from: 
   - /about/
