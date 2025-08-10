@@ -1,0 +1,20 @@
+/* 全站容器置中 + 限寬 */
+.masthead, .page, .initial-content, .page__footer, .page__hero {
+  max-width: 1100px;        /* 想更窄用 960px、更寬用 1280px */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* 內層包裝也一起置中 */
+.masthead__inner-wrap,
+.page__inner-wrap {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding-left: 1.25rem;   /* 視需要調整左右留白 */
+  padding-right: 1.25rem;
+}
+
+/* 首頁大標想置中文字可加這段（選用） */
+.page__title, .page__lead {
+  text-align: center;
+}
