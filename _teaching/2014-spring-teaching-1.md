@@ -2,7 +2,7 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "Graduate-level course"
-permalink: /teaching/Advanced_Power_Converter_Design_and_Practices/
+permalink: /teaching/2014-spring-teaching-1/
 venue: "National Taipei University of Technology, Department of Electrical Engineering"
 date: 2025
 location: "Taipei, Taiwan"
