@@ -1,14 +1,1 @@
-/* 全站容器置中 + 限寬（可自行調整寬度） */
-.masthead, .page, .initial-content, .page__footer, .page__hero,
-.masthead__inner-wrap, .page__inner-wrap {
-  max-width: 1100px;   /* 想更窄改成 960px，更寬改成 1280px */
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 1.25rem;  /* 左邊內距 */
-  padding-right: 1.25rem; /* 右邊內距 */
-}
 
-/* 全站標題與導言置中（可選） */
-.page__title, .page__lead {
-  text-align: center;
-}
