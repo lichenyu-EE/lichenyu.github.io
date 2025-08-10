@@ -1,26 +1,14 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching experience 1"
 collection: teaching
-type: "Graduate-level course"
-permalink: /teaching/2014-spring-teaching-1/
-venue: "National Taipei University of Technology, Department of Electrical Engineering"
-date: 2025
-location: "Taipei, Taiwan"
+type: "Undergraduate course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
-This course provides hands-on and theoretical knowledge in advanced power converter design, covering topics such as resonant converters, digital control implementation, high-frequency magnetics, and GaN/SiC-based designs.
-
-**Course Website:** [Advanced Power Converter Design and Practices](https://example.com)
-
-### Course Highlights
-- Resonant converter design principles
-- High-frequency magnetic component optimization
-- Digital control for power electronics
-- GaN and SiC device applications
-- Practical lab experiments and hardware prototyping
-
-### Instructor
-Prof. Yu-Chen Liu, ECIE Lab, National Taipei University of Technology
+This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
