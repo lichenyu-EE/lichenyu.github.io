@@ -2,7 +2,7 @@
 layout: single
 permalink: /
 title: "Li-Chen Yu"
-author_profile: True   # 關掉左側側欄，不然會偏左
+author_profile: true   # 關掉左側側欄，不然會偏左
 classes: center-page    # 用來套我們等下的置中樣式
 redirect_from:
   - /about/
