@@ -8,7 +8,7 @@ title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : "https://lichenyu-ee.github.io"
-baseurl                  : ""
+baseurl                  : "/lichenyu.github.io"
 repository               : "lichenyu-ee/lichenyu-ee.github.io"
 
 # Site Author
