@@ -354,4 +354,8 @@ compress_html:
     envs: development
 
 future: true
+include:
+  - README.md
+  - LICENSE
+  - assets/js/plugins
 
